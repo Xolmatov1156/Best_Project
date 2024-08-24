@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "productName": "banana",
+      "productPrice": "900",
+      "productType": "1",
+      "productData": "2024-08-24",
+      "id": "8922"
+    },
+    {
+      "productName": "nok",
+      "productPrice": "2000",
+      "productType": "1",
+      "productData": "2024-08-24",
+      "id": "ede8"
+    }
+  ]
+}

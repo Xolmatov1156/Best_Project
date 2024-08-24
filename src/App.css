@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font {
+  font-family: "DM Serif Text", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.ant-picker-input input::placeholder{
+  color: black !important;
+}
+
+.custom-select .ant-select-selection-placeholder {
+  color: black !important;
+}
+
+.ant-spin-dot-spin {
+  color: red;
+}
+
+.shadow{
+  box-shadow: rgb(255, 255, 255) 0px 14px 28px, rgb(255, 255, 255) 0px 10px 10px;
+}
